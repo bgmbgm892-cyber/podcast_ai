@@ -1,0 +1,14 @@
+# ---- requirements.txt ----
+# pinned minimal packages
+requests
+python-dotenv
+# gtts - Replacing with Gemini TTS for quality, but keeping for simple fallback
+gtts
+pydub
+feedgen
+schedule
+beautifulsoup4
+lxml
+# ADD the official modern Gemini SDK
+google-genai 
+# google-api-python-client # (Optional - only needed for older APIs)
