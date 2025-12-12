@@ -39,7 +39,6 @@ env/
 
 # Generated files
 *.mp3
-podcast.xml
 automation.log
 run_output.log
 
